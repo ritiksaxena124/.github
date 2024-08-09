@@ -1,6 +1,6 @@
 ---
 name: 💡 Feature Request
-about: Suggest an enhancement to Meshery.
+about: Suggest an enhancement to the project.
 title: ''
 labels: 'kind/enhancement'
 assignees: ''
@@ -19,8 +19,3 @@ assignees: ''
 
 #### Mockups
 <!-- [Optional] Any visual diagrams of the desired user interface. -->
-
----
-#### Contributor [Handbook](https://layer5.io/community/handbook)
-
-- 🙋🏾🙋🏼 Questions: [Discussion Forum](https://discuss.layer5.io) and [Community Slack](http://slack.layer5.io)
